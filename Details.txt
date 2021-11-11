@@ -1,0 +1,7 @@
+
+I am Rahul Kumar Sahoo
+superuser id is "rahul" password is "rahul"
+
+Admin ID and Password is "debasis", "debasis" respectively 
+
+and Student ID Password is "shujnasju" , "shujnashu" respectively and you can create your own id and password  
